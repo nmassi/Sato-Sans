@@ -1,5 +1,4 @@
 # Sato Medium
-===========================
 
 Sato is a sans-serif typeface designed by [Nicolas Massi](https://www.nico.works).
 Still a work is progress, one weight, basic latin set and so much to do 🤓
