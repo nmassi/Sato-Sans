@@ -8,7 +8,7 @@ Source Files - Glyphs app file
 ------------
 
 ```
-└── sources
+└── Source
     ├── Sato.glyphs
 
 
